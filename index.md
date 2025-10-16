@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP GITAM
-tags: example-tag
+tags: OWASP-GITAM
 region: Asia
 country: India
-meetup-group:
+meetup-group: owasp-gitam
 
 ---
 
