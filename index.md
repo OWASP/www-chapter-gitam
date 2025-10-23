@@ -8,7 +8,7 @@ country: India
 meetup-group: owasp-gitam
 
 ---
-<img src="" width="960" alt="OWASPLogo">
+<img src="owasp gitam banner.jpg" width="960" alt="OWASPLogo">
 
 <p style='text-align: justify;'>
 The OWASP Visakhapatnam Chapter is a student-led initiative dedicated to advancing software and cybersecurity awareness in the region. 
