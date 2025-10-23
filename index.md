@@ -20,10 +20,14 @@ Through community-driven events, workshops, Capture The Flag (CTF) competitions,
 To empower individuals with practical cybersecurity knowledge, inspire responsible hacking practices, and contribute to global OWASP projects through local talent and innovation.
 </p>
 
+<div style="background-color:#fffae6;border-left:5px solid #f0c000;padding:10px 15px;margin-bottom:20px;">
+  🚧 <strong>Note:</strong> This chapter page is currently being updated. Some sections are still under construction — stay tuned for more!
+</div>
+
 
 - **Tanish Anand** — Chapter Leader  
   📧 [tanish.anand@owasp.org](mailto:tanish.anand@owasp.org)
-- **[Add Co-Leader Name]** — Co-Leader  
+- **shruti.mishra@owasp.org** — Chapter Leader  
   📧 [email@owasp.org](mailto:email@owasp.org)
 
  What We Do
@@ -33,7 +37,7 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
 - Collaborate with academic and industry experts for security awareness  
 - Encourage open-source participation through OWASP projects  
 
-## 🤝 Become a Presenter
+## Become a Presenter
 <p style='text-align: justify;'>
 We are always open to new voices!  
 If you’d like to deliver a talk on application security, AI in cybersecurity, or any emerging infosec topic at future OWASP Visakhapatnam events, please review and agree to the 
@@ -42,7 +46,7 @@ If you’d like to deliver a talk on application security, AI in cybersecurity, 
 
 </div>
 
-## 🤝 Get Involved
+## Get Involved
 <p style='text-align: justify;'>
 Whether you’re a student, researcher, or professional — OWASP Visakhapatnam welcomes you!  
 Join us to collaborate, share ideas, and strengthen our cybersecurity community.
