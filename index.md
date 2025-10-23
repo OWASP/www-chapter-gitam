@@ -33,7 +33,7 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
 - Collaborate with academic and industry experts for security awareness  
 - Encourage open-source participation through OWASP projects  
 
-## 🎤 Become a Presenter
+## 🤝 Become a Presenter
 <p style='text-align: justify;'>
 We are always open to new voices!  
 If you’d like to deliver a talk on application security, AI in cybersecurity, or any emerging infosec topic at future OWASP Visakhapatnam events, please review and agree to the 
@@ -41,13 +41,6 @@ If you’d like to deliver a talk on application security, AI in cybersecurity, 
 </p>
 
 </div>
-
-## 🗓️ Upcoming Events
-- **OWASP Vizag Cybersecurity Meetup — November 2025**  
-  *Theme:* Future of AI-Driven Security  
-  *Venue:* GITAM University, Visakhapatnam  
-  *Details:* Coming soon on our [Meetup Page](https://www.meetup.com/owasp-gitam-chapter)
-
 
 ## 🤝 Get Involved
 <p style='text-align: justify;'>
