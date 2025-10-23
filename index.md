@@ -8,38 +8,61 @@ country: India
 meetup-group: owasp-gitam
 
 ---
+<img src="" width="960" alt="OWASPLogo">
 
-<div style='color:red;'>
+<p style='text-align: justify;'>
+The OWASP Visakhapatnam Chapter is a student-led initiative dedicated to advancing software and cybersecurity awareness in the region. 
+Our mission is to bring together professionals, students, and enthusiasts passionate about building a secure digital future. 
+Through community-driven events, workshops, Capture The Flag (CTF) competitions, and research discussions, we aim to foster a culture of learning, collaboration, and innovation in cybersecurity.
+</p>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<p style='text-align: justify;'>
+To empower individuals with practical cybersecurity knowledge, inspire responsible hacking practices, and contribute to global OWASP projects through local talent and innovation.
+</p>
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+- **Tanish Anand** — Chapter Leader  
+  📧 [tanish.anand@owasp.org](mailto:tanish.anand@owasp.org)
+- **[Add Co-Leader Name]** — Co-Leader  
+  📧 [email@owasp.org](mailto:email@owasp.org)
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+ What We Do
+- Organize technical workshops and webinars on cybersecurity trends  
+- Conduct inter-college and state-level **CTF competitions**  
+- Research on **AI-driven cybersecurity** and **threat analysis**  
+- Collaborate with academic and industry experts for security awareness  
+- Encourage open-source participation through OWASP projects  
 
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+## 🎤 Become a Presenter
+<p style='text-align: justify;'>
+We are always open to new voices!  
+If you’d like to deliver a talk on application security, AI in cybersecurity, or any emerging infosec topic at future OWASP Visakhapatnam events, please review and agree to the 
+<a href="/www-policy/speaker-agreement" target="_blank">OWASP Speaker Agreement</a> and send your talk title, abstract, and bio to the chapter leaders.
+</p>
 
 </div>
 
-## Welcome
-Include some information here about your chapter
+## 🗓️ Upcoming Events
+- **OWASP Vizag Cybersecurity Meetup — November 2025**  
+  *Theme:* Future of AI-Driven Security  
+  *Venue:* GITAM University, Visakhapatnam  
+  *Details:* Coming soon on our [Meetup Page](https://www.meetup.com/owasp-gitam-chapter)
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+## 🤝 Get Involved
+<p style='text-align: justify;'>
+Whether you’re a student, researcher, or professional — OWASP Visakhapatnam welcomes you!  
+Join us to collaborate, share ideas, and strengthen our cybersecurity community.
+</p>
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+**Connect with us:**
+- 🌐 [OWASP Global](https://owasp.org)
+- 🔗 [Meetup Page](https://www.meetup.com/owasp-visakhapatnam/)
+- 📧 [tanish.anand@owasp.org](mailto:tanish.anand@owasp.org)
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+---
+
+*OWASP Visakhapatnam Chapter © 2025 — Part of the Open Worldwide Application Security Project*
 
 <!-- You should delete this comment
 
