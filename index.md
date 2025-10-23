@@ -24,7 +24,6 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
   🚧 <strong>Note:</strong> This chapter page is currently being updated. Some sections are still under construction — stay tuned for more!
 </div>
 
-
 - **Tanish Anand** — Chapter Leader  
   📧 [tanish.anand@owasp.org](mailto:tanish.anand@owasp.org)
 - **shruti.mishra@owasp.org** — Chapter Leader  
