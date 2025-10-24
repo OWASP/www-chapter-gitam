@@ -26,8 +26,10 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
 
 - **Tanish Anand** — Chapter Leader  
   📧 [tanish.anand@owasp.org](mailto:tanish.anand@owasp.org)
-- **shruti.mishra@owasp.org** — Chapter Leader  
-  📧 [email@owasp.org](mailto:email@owasp.org)
+- **shruti mishra** — Chapter Leader  
+  📧 [shruti.mishra@owasp.org](mailto:shruti.mishra@owasp.org)
+- **Kottali Rohan Karthik** — Chapter Leader  
+  📧 [kottali.rohankarthik@owasp.org](mailto:kottali.rohankarthik@owasp.org)
 
  What We Do
 - Organizing technical workshops and webinars on cybersecurity trends  
