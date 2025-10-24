@@ -14,4 +14,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 
 ### Attending the Event
-If you would like to attend the upcoming events, join the chapter at [Indore](https://www.meetup.com/owasp-gitam-chapter/) and stay tuned for the updates.
+If you would like to attend the upcoming events, join the chapter at [GITAM](https://www.meetup.com/owasp-gitam-chapter/) and stay tuned for the updates.
