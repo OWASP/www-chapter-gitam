@@ -58,7 +58,7 @@ Join us to collaborate, share ideas, and strengthen our cybersecurity community.
 
 ---
 
-*OWASP Gitam Student Chapter © 2025 — Part of the Open Worldwide Application Security Project*
+*OWASP Gitam Chapter © 2025 — Part of the Open Worldwide Application Security Project*
 
 <!-- You should delete this comment
 
