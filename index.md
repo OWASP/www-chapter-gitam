@@ -20,9 +20,6 @@ Through community-driven events, workshops, Capture The Flag (CTF) competitions,
 To empower individuals with practical cybersecurity knowledge, inspire responsible hacking practices, and contribute to global OWASP projects through local talent and innovation.
 </p>
 
-<div style="background-color:#fffae6;border-left:5px solid #f0c000;padding:10px 15px;margin-bottom:20px;">
-  🚧 <strong>Note:</strong> This chapter page is currently being updated. Some sections are still under construction — stay tuned for more!
-</div>
 
 - **Tanish Anand** — Chapter Leader  
   📧 [tanish.anand@owasp.org](mailto:tanish.anand@owasp.org)
