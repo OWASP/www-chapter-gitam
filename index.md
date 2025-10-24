@@ -43,7 +43,6 @@ If you’d like to deliver a talk on application security, AI in cybersecurity, 
 <a href="/www-policy/speaker-agreement" target="_blank">OWASP Speaker Agreement</a> and send your talk title, abstract, and bio to the chapter leaders.
 </p>
 
-</div>
 
 ## Get Involved
 <p style='text-align: justify;'>
