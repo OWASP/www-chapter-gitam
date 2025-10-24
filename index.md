@@ -28,7 +28,7 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
 - **Kottali Rohan Karthik** — Chapter Leader  
   📧 [kottali.rohankarthik@owasp.org](mailto:kottali.rohankarthik@owasp.org)
 
- ## What We Do
+## What We Do
 - Organizing technical workshops and webinars on cybersecurity trends  
 - Conducting inter-college and state-level **CTF competitions**  
 - Researching  on **AI-driven cybersecurity** and **threat analysis**  
