@@ -11,7 +11,7 @@ meetup-group: owasp-gitam
 <img src="https://github.com/OWASP/www-chapter-gitam/blob/main/owasp%20gitam%20banner.jpg?raw=true" width="960" alt="OWASPLogo">
 
 <p style='text-align: justify;'>
-The OWASP Gitam Chapter is a student-led initiative dedicated to advancing software and cybersecurity awareness in the region. 
+The OWASP GITAM Chapter is a student-led initiative dedicated to advancing software and cybersecurity awareness in the region. 
 Our mission is to bring together professionals, students, and enthusiasts passionate about building a secure digital future. 
 Through community-driven events, workshops, Capture The Flag (CTF) competitions, and research discussions, we aim to foster a culture of learning, collaboration, and innovation in cybersecurity.
 </p>
@@ -41,14 +41,14 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
 ## Become a Presenter
 <p style='text-align: justify;'>
 We are always open to new voices!  
-If you’d like to deliver a talk on application security, AI in cybersecurity, or any emerging infosec topic at future OWASP Gitam events, please review and agree to the 
+If you’d like to deliver a talk on application security, AI in cybersecurity, or any emerging infosec topic at future OWASP GITAM events, please review and agree to the 
 <a href="/www-policy/speaker-agreement" target="_blank">OWASP Speaker Agreement</a> and send your talk title, abstract, and bio to the chapter leaders.
 </p>
 
 
 ## Get Involved
 <p style='text-align: justify;'>
-Whether you’re a student, researcher, or professional — OWASP Gitam welcomes you!  
+Whether you’re a student, researcher, or professional, OWASP GITAM welcomes you!  
 Join us to collaborate, share ideas, and strengthen our cybersecurity community.
 </p>
 
@@ -59,7 +59,7 @@ Join us to collaborate, share ideas, and strengthen our cybersecurity community.
 
 ---
 
-*OWASP Gitam Chapter © 2025 — Part of the Open Worldwide Application Security Project*
+*OWASP GITAM Chapter © 2025 — Part of the Open World Wide Application Security Project*
 
 <!-- You should delete this comment
 
