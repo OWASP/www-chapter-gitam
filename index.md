@@ -41,14 +41,14 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
 ## Become a Presenter
 <p style='text-align: justify;'>
 We are always open to new voices!  
-If you’d like to deliver a talk on application security, AI in cybersecurity, or any emerging infosec topic at future OWASP Visakhapatnam events, please review and agree to the 
+If you’d like to deliver a talk on application security, AI in cybersecurity, or any emerging infosec topic at future OWASP Gitam events, please review and agree to the 
 <a href="/www-policy/speaker-agreement" target="_blank">OWASP Speaker Agreement</a> and send your talk title, abstract, and bio to the chapter leaders.
 </p>
 
 
 ## Get Involved
 <p style='text-align: justify;'>
-Whether you’re a student, researcher, or professional — OWASP Visakhapatnam welcomes you!  
+Whether you’re a student, researcher, or professional — OWASP Gitam welcomes you!  
 Join us to collaborate, share ideas, and strengthen our cybersecurity community.
 </p>
 
