@@ -11,7 +11,7 @@ meetup-group: owasp-gitam
 <img src="https://github.com/OWASP/www-chapter-gitam/blob/main/owasp%20gitam%20banner.jpg?raw=true" width="960" alt="OWASPLogo">
 
 <p style='text-align: justify;'>
-The OWASP Visakhapatnam Chapter is a student-led initiative dedicated to advancing software and cybersecurity awareness in the region. 
+The OWASP Gitam Chapter is a student-led initiative dedicated to advancing software and cybersecurity awareness in the region. 
 Our mission is to bring together professionals, students, and enthusiasts passionate about building a secure digital future. 
 Through community-driven events, workshops, Capture The Flag (CTF) competitions, and research discussions, we aim to foster a culture of learning, collaboration, and innovation in cybersecurity.
 </p>
@@ -30,11 +30,11 @@ To empower individuals with practical cybersecurity knowledge, inspire responsib
   📧 [email@owasp.org](mailto:email@owasp.org)
 
  What We Do
-- Organize technical workshops and webinars on cybersecurity trends  
-- Conduct inter-college and state-level **CTF competitions**  
-- Research on **AI-driven cybersecurity** and **threat analysis**  
-- Collaborate with academic and industry experts for security awareness  
-- Encourage open-source participation through OWASP projects  
+- Organizing technical workshops and webinars on cybersecurity trends  
+- Conducting inter-college and state-level **CTF competitions**  
+- Researching  on **AI-driven cybersecurity** and **threat analysis**  
+- Collaborating with academic and industry experts for security awareness  
+- Encouraging open-source participation through OWASP projects  
 
 ## Become a Presenter
 <p style='text-align: justify;'>
@@ -53,12 +53,12 @@ Join us to collaborate, share ideas, and strengthen our cybersecurity community.
 
 **Connect with us:**
 - 🌐 [OWASP Global](https://owasp.org)
-- 🔗 [Meetup Page](https://www.meetup.com/owasp-visakhapatnam/)
+- 🔗 [Meetup Page](https://www.meetup.com/owasp-gitam-chapter/)
 - 📧 [tanish.anand@owasp.org](mailto:tanish.anand@owasp.org)
 
 ---
 
-*OWASP Visakhapatnam Chapter © 2025 — Part of the Open Worldwide Application Security Project*
+*OWASP Gitam Student Chapter © 2025 — Part of the Open Worldwide Application Security Project*
 
 <!-- You should delete this comment
 
